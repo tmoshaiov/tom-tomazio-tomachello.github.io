@@ -20,6 +20,8 @@ algebraic combi problem [3]
 
 abracadabra [4]
 
+Liouville formula [5] and Abel Identity [6]
+
 ----------------------------------------------------------------
 [1] https://arxiv.org/pdf/1809.05858.pdf page 21
 
@@ -28,3 +30,7 @@ abracadabra [4]
 [3] https://artofproblemsolving.com/community/c6h1555345p9485842
 
 [4] https://math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Ai.pdf
+
+[5] https://en.wikipedia.org/wiki/Liouville%27s_formula
+
+[6] https://en.wikipedia.org/wiki/Abel%27s_identity#:~:text=In%20mathematics%2C%20Abel's%20identity%20(also,of%20the%20original%20differential%20equation.
