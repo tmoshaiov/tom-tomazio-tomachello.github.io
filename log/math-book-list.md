@@ -14,3 +14,5 @@ interest | readability | name | author
 4,5   curves and surfaces - Abate, Toven
 
 1,5   the enjoyment of mathematics - Rademacher, Toeplitz
+
+?,?   introduction to the theory of quadratic forms over fields - Lam
