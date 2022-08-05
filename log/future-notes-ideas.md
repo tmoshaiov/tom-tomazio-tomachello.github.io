@@ -18,7 +18,7 @@ Radon Nikodym [2]
 
 algebraic combi problem [3]
 
-abracadabra [4], give linear algebra solution $P\vec{E}+1=\vec{E}$
+abracadabra [4], give linear algebra solution $P\vec{\mathbf{E}}+1=\vec{\mathbf{E}}$
 
 Liouville formula [5] and Abel Identity [6]
 
