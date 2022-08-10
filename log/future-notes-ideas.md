@@ -1,3 +1,7 @@
+100 people boarding airplane problem
+
+counting nilpotent matrices over finite fields
+
 Renyi's proof of Cayley's tree theorem by polynomials
 
 Grossman binary problem
