@@ -1,6 +1,8 @@
 
 interest | readability | name | author
 ---------------------------------------
+4,?   Complex Proofs of Real Theorems - Lax
+
 2,5   the induction book - Weintraub
    
 5,4   geometry and topology - Bredon
