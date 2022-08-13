@@ -40,6 +40,6 @@ a & b\\
 <u>sorting algorithm</u> let $a=(a_1,\dots,a_n)$ be a given array. <br>
 first we divide it into increasing runs $a=(r_1,\dots,r_k)$. <br>
 for example, if $a=(1,3,7,6,5,2,4)$ then the runs are $(1,3,7),(6),(5),(2,4)$. <br>
-now, as long as $k\ge 2$ we pick the two shortest runs and form their merged run. <br>
-to do so, we use an efficient priority queue, such as a min heap. <br>
+then we place the runs into a min-heap, ordered by length. <br>
+now, as long as $k\ge 2$ we remove the two shortest runs and insert their merged run. <br>
 </body>
