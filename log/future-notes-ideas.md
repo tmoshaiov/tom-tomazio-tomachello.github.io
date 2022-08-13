@@ -26,6 +26,8 @@ abracadabra [4], give linear algebra solution $P\cdot{\mathbf{E}}+\vec{1}={\math
 
 Liouville formula [5] and Abel Identity [6]
 
+complex proof of Fourier uniqueness [7]
+
 ----------------------------------------------------------------
 [1] https://arxiv.org/pdf/1809.05858.pdf page 21
 
@@ -38,3 +40,5 @@ Liouville formula [5] and Abel Identity [6]
 [5] https://en.wikipedia.org/wiki/Liouville%27s_formula
 
 [6] https://en.wikipedia.org/wiki/Abel%27s_identity#:~:text=In%20mathematics%2C%20Abel's%20identity%20(also,of%20the%20original%20differential%20equation.
+
+[7] https://matthewhr.wordpress.com/2012/02/20/elegant-proof-of-fourier-uniqueness/
