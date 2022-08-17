@@ -10,6 +10,8 @@ Berlekamp factorization algorithm
 
 permutation statistics
 
+imo 2012 p6 [8]
+
 coupon collector problem
 
 Jordan-Holder
@@ -42,3 +44,5 @@ complex proof of Fourier uniqueness [7]
 [6] https://en.wikipedia.org/wiki/Abel%27s_identity#:~:text=In%20mathematics%2C%20Abel's%20identity%20(also,of%20the%20original%20differential%20equation.
 
 [7] https://matthewhr.wordpress.com/2012/02/20/elegant-proof-of-fourier-uniqueness/
+
+[8] https://polymathprojects.org/2012/07/13/minipolymath4-project-second-research-thread/ 
