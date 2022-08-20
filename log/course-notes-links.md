@@ -1,3 +1,5 @@
+collections [*]
+
 von Neumann algebras [1]
 
 algebraic geometry [2]
@@ -36,3 +38,5 @@ class field theory [9]
 [9] https://ocw.mit.edu/courses/18-786-number-theory-ii-class-field-theory-spring-2016/pages/lecture-notes/
 
 [10] https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/pages/lecture-notes/
+
+[*] https://www.mit.edu/~NivenT/notes/
