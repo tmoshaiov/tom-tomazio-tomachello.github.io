@@ -15,6 +15,8 @@ interest | readability | name | author
 
 4,5   curves and surfaces - Abate, Toven
 
+4,?   principles of harmonic analysis
+
 1,5   the enjoyment of mathematics - Rademacher, Toeplitz
 
 ?,?   introduction to the theory of quadratic forms over fields - Lam
