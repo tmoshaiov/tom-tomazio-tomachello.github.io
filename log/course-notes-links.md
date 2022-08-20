@@ -14,7 +14,7 @@ algebraic topology [6]
 
 combinatorial theory [7,10]
 
-Lie theory [8]
+Lie theory [8,11]
 
 class field theory [9]
 
@@ -38,5 +38,7 @@ class field theory [9]
 [9] https://ocw.mit.edu/courses/18-786-number-theory-ii-class-field-theory-spring-2016/pages/lecture-notes/
 
 [10] https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/pages/lecture-notes/
+
+[11] https://www.mit.edu/~NivenT/assets/pdf//18_755_Notes.pdf
 
 [*] https://www.mit.edu/~NivenT/notes/
