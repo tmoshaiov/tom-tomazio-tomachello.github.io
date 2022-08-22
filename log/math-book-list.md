@@ -20,3 +20,5 @@ interest | readability | name | author
 1,5   the enjoyment of mathematics - Rademacher, Toeplitz
 
 ?,?   introduction to the theory of quadratic forms over fields - Lam
+
+?,?   the science of programming - Gries
