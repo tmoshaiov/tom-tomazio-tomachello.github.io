@@ -10,7 +10,7 @@ lc3 virtual machine [4]
 
 manifolds [5]
 
-algebraic topology [6]
+algebraic topology [6,13]
 
 combinatorial theory [7,10]
 
@@ -44,5 +44,7 @@ topological groups [12]
 [11] https://www.mit.edu/~NivenT/assets/pdf//18_755_Notes.pdf
 
 [12] https://www.dpmms.cam.ac.uk/~twk/Topg.pdf
+
+[13] https://math.mit.edu/~hrm/papers/lectures-905-906.pdf
 
 [*] https://www.mit.edu/~NivenT/notes/
