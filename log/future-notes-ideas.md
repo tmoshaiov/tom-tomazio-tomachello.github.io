@@ -1,5 +1,7 @@
 100 people boarding airplane problem
 
+if A < B are convex polygons then per(A) < per(B)
+
 counting nilpotent matrices over finite fields
 
 Renyi's proof of Cayley's tree theorem by polynomials
