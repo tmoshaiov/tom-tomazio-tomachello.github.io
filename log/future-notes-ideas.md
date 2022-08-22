@@ -34,6 +34,8 @@ complex proof of Fourier uniqueness [7]
 
 some proofs of quad rec etc [9]
 
+the hydra game [10]
+
 ----------------------------------------------------------------
 [1] https://arxiv.org/pdf/1809.05858.pdf page 21
 
@@ -52,3 +54,5 @@ some proofs of quad rec etc [9]
 [8] https://polymathprojects.org/2012/07/13/minipolymath4-project-second-research-thread/ 
 
 [9] http://math.univ-lyon1.fr/~tchoudjem/ENSEIGNEMENT/PREPA_AGREG/corps_26oct.pdf
+
+[10] http://math.andrej.com/2008/02/02/the-hydra-game/
