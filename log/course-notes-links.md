@@ -18,6 +18,8 @@ Lie theory [8,11]
 
 class field theory [9]
 
+topological groups [12]
+
 -----
 [1] https://math.vanderbilt.edu/peters10/teaching/spring2013/vonNeumannAlgebras.pdf
 
@@ -40,5 +42,7 @@ class field theory [9]
 [10] https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/pages/lecture-notes/
 
 [11] https://www.mit.edu/~NivenT/assets/pdf//18_755_Notes.pdf
+
+[12] https://www.dpmms.cam.ac.uk/~twk/Topg.pdf
 
 [*] https://www.mit.edu/~NivenT/notes/
