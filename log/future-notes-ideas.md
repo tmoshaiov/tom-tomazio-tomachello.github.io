@@ -32,6 +32,8 @@ Liouville formula [5] and Abel Identity [6]
 
 complex proof of Fourier uniqueness [7]
 
+some proofs of quad rec etc [9]
+
 ----------------------------------------------------------------
 [1] https://arxiv.org/pdf/1809.05858.pdf page 21
 
@@ -48,3 +50,5 @@ complex proof of Fourier uniqueness [7]
 [7] https://matthewhr.wordpress.com/2012/02/20/elegant-proof-of-fourier-uniqueness/
 
 [8] https://polymathprojects.org/2012/07/13/minipolymath4-project-second-research-thread/ 
+
+[9] http://math.univ-lyon1.fr/~tchoudjem/ENSEIGNEMENT/PREPA_AGREG/corps_26oct.pdf
