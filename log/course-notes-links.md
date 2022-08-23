@@ -14,6 +14,8 @@ algebraic topology [6,13]
 
 combinatorial theory [7,10]
 
+combinatorial algorithms [14]
+
 Lie theory [8,11]
 
 class field theory [9]
@@ -46,5 +48,7 @@ topological groups [12]
 [12] https://www.dpmms.cam.ac.uk/~twk/Topg.pdf
 
 [13] https://math.mit.edu/~hrm/papers/lectures-905-906.pdf
+
+[14] https://www.coga.tu-berlin.de/v_menue/lehre/wise17/vl_adm_iii_tm/
 
 [*] https://www.mit.edu/~NivenT/notes/
