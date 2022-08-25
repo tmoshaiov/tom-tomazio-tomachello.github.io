@@ -16,7 +16,7 @@ combinatorial theory [7,10]
 
 combinatorial algorithms [14]
 
-algebraic geometry for combinatorialists [15]
+the n! conjecture (algebraic geometry for combinatorialists) [15]
 
 Lie theory [8,11]
 
