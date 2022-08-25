@@ -36,6 +36,8 @@ some proofs of quad rec etc [9]
 
 the hydra game [10]
 
+lattice walks, ballots, bijections [11]
+
 ----------------------------------------------------------------
 [1] https://arxiv.org/pdf/1809.05858.pdf page 21
 
@@ -56,3 +58,5 @@ the hydra game [10]
 [9] http://math.univ-lyon1.fr/~tchoudjem/ENSEIGNEMENT/PREPA_AGREG/corps_26oct.pdf
 
 [10] http://math.andrej.com/2008/02/02/the-hydra-game/
+
+[11] http://wwwmathlabo.univ-poitiers.fr/~maavl/pdf/path-bijections.pdf
