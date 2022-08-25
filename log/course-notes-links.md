@@ -16,6 +16,8 @@ combinatorial theory [7,10]
 
 combinatorial algorithms [14]
 
+algebraic geometry for combinatorialists [15]
+
 Lie theory [8,11]
 
 class field theory [9]
@@ -51,4 +53,7 @@ topological groups [12]
 
 [14] https://www.coga.tu-berlin.de/v_menue/lehre/wise17/vl_adm_iii_tm/
 
+[15] https://math.berkeley.edu/~mhaiman/ftp/cdm/cdm.pdf
+
 [*] https://www.mit.edu/~NivenT/notes/
+
