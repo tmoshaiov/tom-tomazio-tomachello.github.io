@@ -1,3 +1,7 @@
+Fermat for matrices
+
+Ehrhart polynomial
+
 100 people boarding airplane problem
 
 if A < B are convex polygons then per(A) < per(B)
