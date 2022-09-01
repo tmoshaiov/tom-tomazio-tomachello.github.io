@@ -14,7 +14,7 @@ algebraic topology [6,13]
 
 combinatorial theory [7,10]
 
-combinatorial algorithms [14]
+combinatorial algorithms [14,16]
 
 the n! conjecture (algebraic geometry for combinatorialists) [15]
 
@@ -54,6 +54,8 @@ topological groups [12]
 [14] https://www.coga.tu-berlin.de/v_menue/lehre/wise17/vl_adm_iii_tm/
 
 [15] https://math.berkeley.edu/~mhaiman/ftp/cdm/cdm.pdf
+
+[16] https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc
 
 [*] https://www.mit.edu/~NivenT/notes/
 
