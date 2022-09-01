@@ -1,5 +1,7 @@
 (Z/p)^* is cyclic and friends [12]
 
+Chebotarev's thm [13]
+
 Fermat for matrices
 
 Ehrhart polynomial
@@ -68,3 +70,5 @@ lattice walks, ballots, bijections [11]
 [11] http://wwwmathlabo.univ-poitiers.fr/~maavl/pdf/path-bijections.pdf
 
 [12] https://arxiv.org/pdf/1011.0076.pdf
+
+[13] https://arxiv.org/pdf/math/0312398.pdf
