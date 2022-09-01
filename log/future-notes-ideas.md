@@ -1,3 +1,5 @@
+(Z/p)^* is cyclic and friends [12]
+
 Fermat for matrices
 
 Ehrhart polynomial
@@ -64,3 +66,5 @@ lattice walks, ballots, bijections [11]
 [10] http://math.andrej.com/2008/02/02/the-hydra-game/
 
 [11] http://wwwmathlabo.univ-poitiers.fr/~maavl/pdf/path-bijections.pdf
+
+[12] https://arxiv.org/pdf/1011.0076.pdf
