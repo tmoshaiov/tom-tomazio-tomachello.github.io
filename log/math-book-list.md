@@ -22,3 +22,5 @@ interest | readability | name | author
 ?,?   introduction to the theory of quadratic forms over fields - Lam
 
 4,?   the science of programming - Gries
+
+4,3   Fourier series and integrals - Harry Dym
