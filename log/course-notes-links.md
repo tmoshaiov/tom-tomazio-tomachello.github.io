@@ -22,6 +22,8 @@ Lie theory [8,11]
 
 class field theory [9]
 
+probability theory [17]
+
 topological groups [12]
 
 -----
@@ -56,6 +58,8 @@ topological groups [12]
 [15] https://math.berkeley.edu/~mhaiman/ftp/cdm/cdm.pdf
 
 [16] https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc
+
+[17] http://www.columbia.edu/~ks20/stochastic-I/stochastic-I.html
 
 [*] https://www.mit.edu/~NivenT/notes/
 
