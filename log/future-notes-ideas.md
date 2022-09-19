@@ -50,6 +50,8 @@ the hydra game [10]
 
 lattice walks, ballots, bijections [11]
 
+Sutner's work [15,]
+
 ----------------------------------------------------------------
 [1] https://arxiv.org/pdf/1809.05858.pdf page 21
 
@@ -78,3 +80,5 @@ lattice walks, ballots, bijections [11]
 [13] https://arxiv.org/pdf/math/0312398.pdf
 
 [14] https://dgrozev.wordpress.com/2019/09/23/partitioning-into-two-sub-graphs-a-gallai-result/
+
+[15] https://content.wolfram.com/uploads/sites/13/2018/02/02-6-3.pdf
