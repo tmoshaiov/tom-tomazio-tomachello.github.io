@@ -1,5 +1,5 @@
 
-interest | readability | name | author
+interest | readability | name | author | link
 ---------------------------------------
 4,?   Complex Proofs of Real Theorems - Lax
 
@@ -25,5 +25,5 @@ interest | readability | name | author
 
 4,3   Fourier series and integrals - Dym
 
-4,?   Markov Chains and Mixing Times - Levin (https://darkwing.uoregon.edu/~dlevin/MARKOV/mcmt2e.pdf)
+4,?   Markov Chains and Mixing Times - Levin | darkwing.uoregon.edu/~dlevin/MARKOV/mcmt2e.pdf
 
