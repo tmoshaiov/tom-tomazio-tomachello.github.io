@@ -6,7 +6,9 @@ Fermat for matrices
 
 Ehrhart polynomial
 
-100 people boarding airplane problem
+Garden of Eden
+
+100 people boarding airplane problem (probability last person sits in his seat)
 
 if A < B are convex polygons then per(A) < per(B)
 
