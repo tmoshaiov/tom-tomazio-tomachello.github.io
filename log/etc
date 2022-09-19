@@ -2,3 +2,14 @@ https://dgrozev.wordpress.com/
 https://www.egmo.org/
 https://matthewhr.wordpress.com/expository-writings-notes-problem-solutions-etc/
 https://amathew.wordpress.com/
+
+
+
+---
+Now for an example of the generalization, where some vertices do affect
+themselves and some don’t, we can have squares with green and red lamps;
+the green lamps affect themselves and also those around them, but the red
+lamps only affect those around them and not themselves. Starting with all
+lamps off, the goal is to turn on all the green lamps and turn off all the
+red ones, and by the corollary this can always be achieved. Of course, the
+amount of such scenarios is limited only by the imagination.
