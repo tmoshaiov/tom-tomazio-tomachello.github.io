@@ -1,3 +1,5 @@
+Polya enumeration theorem
+
 (Z/p)^* is cyclic and friends [12]
 
 Chebotarev's thm [13]
