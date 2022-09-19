@@ -25,6 +25,8 @@ interest | readability | name | author | link
 
 4,3   Fourier series and integrals - Dym
 
+4,?   Combinatorial Problems and Exercises - Lovasz
+
 4,?   Markov Chains and Mixing Times - Levin
 https://darkwing.uoregon.edu/~dlevin/MARKOV/mcmt2e.pdf
 
