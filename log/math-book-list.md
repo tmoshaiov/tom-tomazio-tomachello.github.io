@@ -23,4 +23,7 @@ interest | readability | name | author
 
 4,?   the science of programming - Gries
 
-4,3   Fourier series and integrals - Harry Dym
+4,3   Fourier series and integrals - Dym
+
+4,?   Markov Chains and Mixing Times - Levin
+
