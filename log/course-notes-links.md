@@ -1,5 +1,7 @@
 collections [*]
 
+Lie theory [8,11,18]
+
 von Neumann algebras [1]
 
 algebraic geometry [2]
@@ -17,8 +19,6 @@ combinatorial theory [7,10]
 combinatorial algorithms [14,16]
 
 the n! conjecture (algebraic geometry for combinatorialists) [15]
-
-Lie theory [8,11]
 
 class field theory [9]
 
@@ -61,5 +61,7 @@ topological groups [12]
 
 [17] http://www.columbia.edu/~ks20/stochastic-I/stochastic-I.html
 
-[*] https://www.mit.edu/~NivenT/notes/
+[18] https://homepage.univie.ac.at/Dietrich.Burde/papers/burde_70_lie_algebra_course.pdf
+
+[*] https://www.mit.edu/~NivenT/notes/, https://dec41.user.srcf.net/notes/
 
