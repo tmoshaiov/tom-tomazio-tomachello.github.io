@@ -4,6 +4,8 @@ Chebotarev's thm [13]
 
 Fermat for matrices
 
+Gallai artition theorem [14]
+
 Ehrhart polynomial
 
 Garden of Eden
@@ -74,3 +76,5 @@ lattice walks, ballots, bijections [11]
 [12] https://arxiv.org/pdf/1011.0076.pdf
 
 [13] https://arxiv.org/pdf/math/0312398.pdf
+
+[14] https://dgrozev.wordpress.com/2019/09/23/partitioning-into-two-sub-graphs-a-gallai-result/
