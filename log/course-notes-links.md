@@ -63,5 +63,5 @@ topological groups [12]
 
 [18] https://homepage.univie.ac.at/Dietrich.Burde/papers/burde_70_lie_algebra_course.pdf
 
-[*] https://www.mit.edu/~NivenT/notes/, https://dec41.user.srcf.net/notes/
+[*] https://www.mit.edu/~NivenT/notes/, https://dec41.user.srcf.net/notes/, https://homepage.univie.ac.at/dietrich.burde/lectures.html
 
