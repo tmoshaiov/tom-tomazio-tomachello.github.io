@@ -2,6 +2,8 @@ Fitting's theorem, Joyal's proof and counting nilpotents [16]
 
 Polya enumeration theorem
 
+Birkhoff-Kakutani theorem
+
 (Z/p)^* is cyclic and friends [12]
 
 Chebotarev's thm [13]
