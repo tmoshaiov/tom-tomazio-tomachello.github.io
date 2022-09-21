@@ -1,3 +1,5 @@
+Fitting's theorem, Joyal's proof and counting nilpotents [16]
+
 Polya enumeration theorem
 
 (Z/p)^* is cyclic and friends [12]
@@ -84,3 +86,5 @@ Sutner's work [15,]
 [14] https://dgrozev.wordpress.com/2019/09/23/partitioning-into-two-sub-graphs-a-gallai-result/
 
 [15] https://content.wolfram.com/uploads/sites/13/2018/02/02-6-3.pdf
+
+[16] https://arxiv.org/pdf/1912.12562.pdf
