@@ -20,3 +20,6 @@ lamps only affect those around them and not themselves. Starting with all
 lamps off, the goal is to turn on all the green lamps and turn off all the
 red ones, and by the corollary this can always be achieved. Of course, the
 amount of such scenarios is limited only by the imagination.
+
+Journal/todo app that asks me what I'll do and what I did. I've emulated having a todo app that every morning/night asks me: "what will you do?" and I can fill in a handful of items. But it also shows me the items from the last time and asks "did you do them?", giving me the option to check them off, throw them out, or move them to the next day.
+
