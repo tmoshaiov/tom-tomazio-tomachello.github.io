@@ -1,6 +1,8 @@
 
 interest | readability | name | author | link
 ---------------------------------------
+3,5   problems and theorems in analysis - Polya
+
 4,?   Complex Proofs of Real Theorems - Lax
 
 2,5   the induction book - Weintraub
