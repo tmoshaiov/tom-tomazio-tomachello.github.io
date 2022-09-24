@@ -32,6 +32,8 @@ permutation statistics
 
 imo 2012 p6 [8]
 
+Jacobson rings, and if $A$ is a finite-type $Z$-algebra and $m$ is a maximal ideal of $A$, then $A/m$ is a finite field [17]
+
 coupon collector problem
 
 Jordan-Holder
@@ -90,3 +92,5 @@ Sutner's work [15,]
 [15] https://content.wolfram.com/uploads/sites/13/2018/02/02-6-3.pdf
 
 [16] https://arxiv.org/pdf/1912.12562.pdf
+
+[17] http://www.math.uchicago.edu/~emerton/pdffiles/jacobson.pdf
