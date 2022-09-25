@@ -48,6 +48,8 @@ Radon Nikodym [2]
 
 algebraic combi problem [3]
 
+exercise 1.14 in fulton harris rep theory
+
 abracadabra [4], give linear algebra solution $P\cdot{\mathbf{E}}+\vec{1}={\mathbf{E}}$
 
 Liouville formula [5] and Abel Identity [6]
