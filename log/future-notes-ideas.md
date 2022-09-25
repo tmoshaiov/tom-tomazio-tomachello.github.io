@@ -4,6 +4,8 @@ Polya enumeration theorem
 
 Birkhoff-Kakutani theorem
 
+Frobenius group theorem by counting [18]
+
 (Z/p)^* is cyclic and friends [12]
 
 Chebotarev's thm [13]
@@ -94,3 +96,5 @@ Sutner's work [15,]
 [16] https://arxiv.org/pdf/1912.12562.pdf
 
 [17] http://www.math.uchicago.edu/~emerton/pdffiles/jacobson.pdf
+
+[18] https://sbseminar.wordpress.com/2015/09/05/a-counting-argument-for-frobenius-theorem/
