@@ -1,6 +1,8 @@
 
 interest | readability | name | author | link
 ---------------------------------------
+5,5   Discrete subgroups of Lie groups - Raghunathan
+
 3,5   problems and theorems in analysis - Polya
 
 4,?   Complex Proofs of Real Theorems - Lax
