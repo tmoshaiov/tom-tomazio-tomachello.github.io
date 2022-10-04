@@ -64,6 +64,8 @@ lattice walks, ballots, bijections [11]
 
 Sutner's work [15,]
 
+use Zariski topology to prove Cayley-Hamilton and also Motzkin-Taussky theorems [19]
+
 ----------------------------------------------------------------
 [1] https://arxiv.org/pdf/1809.05858.pdf page 21
 
@@ -100,3 +102,5 @@ Sutner's work [15,]
 [17] http://www.math.uchicago.edu/~emerton/pdffiles/jacobson.pdf
 
 [18] https://sbseminar.wordpress.com/2015/09/05/a-counting-argument-for-frobenius-theorem/
+
+[19] http://www.csun.edu/~asethura/papers/Article_RMS_Newsletter.pdf
