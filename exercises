@@ -1,0 +1,38 @@
+<!DOCTYPE html><html><head><title> Exercises </title><link rel="stylesheet" href="untitled.css"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], processEscapes: true }}); </script><script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"> </script><meta name="viewport" content="width=device-width, initial-scale=1"></head> <div style="display: none;">$\newcommand{\C}{\mathbf{C}}\newcommand{\R}{\mathbf{R}}\renewcommand{\to}{\longrightarrow}\def\abs#1{\left|#1\right|}\def\Z{\mathbf{Z}}\def\eps{\varepsilon}\def\disp{\displaystyle}\def\bra#1{\left(#1\right)}	\global\long\def\sp{\phantom{.}}\newcommand{\mmod}{\sp\text{mod}\sp}$</div>
+<script type="text/javascript">
+	function invert(id)
+	{
+		var element = document.getElementById(id);
+   		element.classList.toggle("black");
+	}
+</script>
+
+<body>
+
+	<div id="sdj">
+
+
+	Exercise sdj. Let $a_1\le a_2\le a_3\le \dots$ be a sequence of positive integers with $\lim a_{n}/n=0$. Then $a_{k}$ divides $k$ for infinitely many values of $k$. Moreover, each positive integer $d$ is a quotient $d=\frac{k}{a_{k}}$.
+
+
+	</div><br><br><div id="rvw">
+
+
+	Exercise rvw. Let $p\neq2$, $\zeta=e^{2\pi i/p}$ and $\xi=\disp\sum_{j=0}^{p-1}\zeta^{j^2}$. Then $\xi^2=(-1)^{\frac{p-1}{2}}p$.
+
+
+	</div><br><br><div id="nef">
+
+
+	Exercise nef. For $\alpha\in\Z/p$ find explicitly $r(\alpha)=\abs{\left\{ (x,y)\in\bra{\Z/p}^{2}:x^{2}+y^{2}=\alpha\right\}}$.
+
+
+	</div><br><br><div id="soa">
+
+
+	Exercise soa. Let $f:[0,1]\to \R$ be continuous. Then $f(t)=at+b$ is affine $\iff$  ${\displaystyle \lim_{h\to0}}\dfrac{f(t+h)-2f(t)+f(t-h)}{h^{2}}=0$ for all $t\in(0,1)$. 
+
+
+	</div>
+
+</body></html>
